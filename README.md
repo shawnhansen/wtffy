@@ -10,4 +10,4 @@ Currently it can pull and cache JSON feeds for:
 * Flickr
 * YouTube
 
-It's php based and uses the Slim framework.
+It's php based and uses the Slim framework. It's not extremely robust at the moment, but it gets the job done.
